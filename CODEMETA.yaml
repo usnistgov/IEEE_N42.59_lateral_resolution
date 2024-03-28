@@ -37,8 +37,8 @@ categories:
   # - visualization
 
 themes:
-  - Information Technology
-    - Data and informatics
+  #- Information Technology
+  #  - Data and informatics
   # - Advanced communications
   #     - Optical communications
   #     - Quantum communications
@@ -218,7 +218,7 @@ themes:
   #
   # - Mathematics and Statistics
   #     - Experiment design
-  #     - Image and signal processing
+       - Image and signal processing
   #     - Mathematical knowledge management
   #     - Modeling and simulation research
   #     - Numerical methods and software
@@ -282,8 +282,8 @@ themes:
   #     - Thermodynamics
   #     - Time and frequency
   #
-  # - Public safety
-  #     - Chemical, Biological, Radiological, Nuclear and Explosives (CBRNE)
+   - Public safety
+       - Chemical, Biological, Radiological, Nuclear and Explosives (CBRNE)
   #     - First responder preparedness
   #     - Law enforcement
   #     - Physical security
@@ -300,18 +300,18 @@ themes:
   #     - Resilient materials
   #     - Windstorm impact reduction
   #
-  # - Standards
+   - Standards
   #     - Accreditation
   #     - Calibration Services
   #     - Conformity assessment
-  #     - Documentary standards
+       - Documentary standards
   #     - Frameworks
   #     - Reference data
   #     - Reference instruments
   #     - Reference materials
   #     - Standards education
   #
-  # - Transportation
+   - Transportation
   #     - Aerospace
   #     - Automotive
   #     - Rail
