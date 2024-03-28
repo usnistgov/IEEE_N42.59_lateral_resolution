@@ -13,9 +13,18 @@ Data analysis steps:
 1) Collect at least 5 images of one or both of the lateral resolution test objects.
 1) Crop each image down to the edges of the test object (see figure above).
 Place all the cropped images into a folder e.g. 'test_folder2/'
-1) 
+1) Run the process_whole_lat_res_folder() function in "process_whole_lat_res_folder.py".
+The code near the end of that file can be used to change images are searched for.
 
+```
+if __name__== "__main__" :
+    folder = "test_folder2/"
+    file_str = '*.tif'
+    process_lat_res_folder(folder, file_str, PDF_obj=True)
+```
 
+4) Setting PDF_obj to True means all the figures are output to a PDF file called "N4259_lateral_resolution_results_summary.pdf"
+in the folder "test_folder2/". Find that file and interpret your results!
 
 ## Software description
 
@@ -31,7 +40,7 @@ Feel free to email him at firstname dot lastname at agency dot gov.
 If you use this code then please cite the paper:
 - **Title**: A standardized test for measuring the spatial resolution of active millimeter wave imaging systems 
 - **Author**: Jack L. Glover
-- Expected to be published in: Proceedings of the SPIE _Radar Sensor Technology XXVIII_
+- Intended to be published in: Proceedings of the SPIE _Radar Sensor Technology XXVIII_
 
 ## References 
 
