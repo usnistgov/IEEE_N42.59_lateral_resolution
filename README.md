@@ -1,6 +1,6 @@
 ## Background
 
-Image quality is an important characteristic of millimeter wave (MMW) imaging systems such as those widely deployed in US airports. The IEEE N42.59 standard [1] describes test objects, test methods, and objective analysis algorithms for measuring several aspects of image quality. This code implements the lateral resolution test method [2]. MMW systems within the scope of IEEE N42.59 use a variety of imaging approaches and produce both 2D and 3D images. We use the term _lateral resolution_ to refer to spatial resolution in the plane perpecficular to the synthetic aperture. The method for measuring spatial resolution in the depth direction, perpendicular to the lateral plane, is described in [3]. 
+Image quality is an important characteristic of millimeter wave (MMW) imaging systems such as those widely deployed in US airports. The IEEE N42.59 standard [1] describes test objects, test methods, and objective analysis algorithms for measuring several aspects of image quality. This code implements the lateral resolution test method [2]. MMW systems within the scope of IEEE N42.59 use a variety of imaging approaches and produce both 2D and 3D images. We use the term _lateral resolution_ to refer to spatial resolution in the plane perpendicular to the synthetic aperture. The method for measuring spatial resolution in the depth direction, perpendicular to the lateral plane, is described in [3]. 
 
 ![mmw](https://github.com/usnistgov/IEEE_N42.59_lateral_resolution/assets/12698270/25130fb7-48fb-4428-91c5-cbb1301d2b69)
 
