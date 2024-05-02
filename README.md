@@ -43,6 +43,9 @@ If you use this code then please cite the paper:
 - **Author**: Jack L. Glover
 - Intended to be published in: Proceedings of the SPIE _Radar Sensor Technology XXVIII_
 
+This work was supported by the DHS S&T Standards Division under agreement FTST-23-FT004. The author is eager to acknowledge the many public and private sector partners who have contributed materially to the development of the IEEE N42.59 standard. 
+
+
 ## References 
 
 - [1] IEEE N42.59: _Standard for Measuring the Imaging Performance of Active Millimeter-Wave Systems for Security Screening of Humans_. https://standards.ieee.org/ieee/N42.59/11515/
