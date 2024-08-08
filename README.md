@@ -41,7 +41,9 @@ This is version 0.7 of this code and was published in March 2024. This is an alp
 If you use this code then please cite the paper:
 - **Title**: A standardized test for measuring the spatial resolution of active millimeter wave imaging systems 
 - **Author**: Jack L. Glover
-- Intended to be published in: Proceedings of the SPIE _Radar Sensor Technology XXVIII_
+- **DOI**: [https://doi.org/10.1117/12.3012666](https://doi.org/10.1117/12.3012666)
+- Proceedings of the SPIE, Volume 13048, Radar Sensor Technology XXVIII; 130480T (2024)
+- Presented at the _Radar Sensor Technology XXVIII_ sessions of the SPIE Defense + Commercial Sensing conference
 
 This work was supported by the DHS S&T Standards Division under agreement FTST-23-FT004. The author is eager to acknowledge the many public and private sector partners who have contributed materially to the development of the IEEE N42.59 standard. 
 
@@ -49,6 +51,6 @@ This work was supported by the DHS S&T Standards Division under agreement FTST-2
 ## References 
 
 - [1] IEEE N42.59: _Standard for Measuring the Imaging Performance of Active Millimeter-Wave Systems for Security Screening of Humans_. https://standards.ieee.org/ieee/N42.59/11515/
-- [2] Jack L. Glover. _A standardized test for measuring the spatial resolution of active millimeter wave imaging systems_. Published in the proceedings of the Radar Sensor Technology XXVIII conference. http://spie.org/DCS207
+- [2] Jack L. Glover. _A standardized test for measuring the spatial resolution of active millimeter wave imaging systems_. Proceedings of the SPIE, Volume 13048, Radar Sensor Technology XXVIII; 130480T (2024). [link](https://doi.org/10.1117/12.3012666)
 - [3] David M. Sheen, R. Trevor Clark, and Maurio Grando. _Depth resolution evaluation for an active wideband millimeter-wave imaging system_. Passive and Active Millimeter-Wave Imaging XXIV. Vol. 11745. SPIE, 2021. [link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11745/117450M/Depth-resolution-evaluation-for-an-active-wideband-millimeter-wave-imaging/10.1117/12.2587201.full)
 
